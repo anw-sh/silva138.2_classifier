@@ -35,24 +35,23 @@ Compatible upto QIIME2 version [2026.1](https://raw.githubusercontent.com/qiime2
 # Took nearly 2.30 hrs
 ```
 
-[Downloads directory](https://mega.nz/folder/gO5gAZIK#cTAwUqvAdnfoHzvYINSU-g)
+## Downloads
+All 3 outputs of the final step  
+[Download](https://mega.nz/folder/gO5gAZIK#cTAwUqvAdnfoHzvYINSU-g)
 
-[**Classifier**](https://mega.nz/file/gfAhVJCC#ChyqPmJNg55yQ4pE6RBLBFNJaFG_-1mf9K_VkLlIjqs)
-
+Alternative download  
 [Dropbox](https://www.dropbox.com/scl/fo/fryg5ak0dhu17njt4ivxy/ACFlCCJ8RFoKApBvFrZIby0?rlkey=bmzf34qe0on4xsr0t5k2omd5k&st=xss3uaz1&dl=0)
 
+Just the classifier  
+[**Classifier**](https://mega.nz/file/gfAhVJCC#ChyqPmJNg55yQ4pE6RBLBFNJaFG_-1mf9K_VkLlIjqs)
 
-## System configuration
 
-- RAM: 250 GB
-- Processor: AMD EPYC 7452 (Dual CPUs)
-- Core/Threads: 32/64 x 2: 128 threads
-- OS: Ubuntu 24.04.02 LTS
 
 ## Other classifiers
 
 - Older version - [silva 138](https://github.com/anw-sh/silva-138_classifiers) - using [scikit-learn **0.24.1**](https://raw.githubusercontent.com/qiime2/environment-files/master/2021.4/release/qiime2-2021.4-py38-linux-conda.yml)
 - [NCBI](https://github.com/anw-sh/ncbi_classifier)
+
 
 ## References
 
@@ -60,3 +59,12 @@ Compatible upto QIIME2 version [2026.1](https://raw.githubusercontent.com/qiime2
 2. [silva](https://www.arb-silva.de/)
 3. [Classifiers by silva](https://www.arb-silva.de/current-release/QIIME2)
 4. [QIIME2 resources](https://library.qiime2.org/data-resources)
+
+***
+
+## System configuration
+
+- RAM: 250 GB
+- Processor: AMD EPYC 7452 (Dual CPUs)
+- Core/Threads: 32/64 x 2: 128 threads
+- OS: Ubuntu 24.04.02 LTS
